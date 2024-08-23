@@ -1,0 +1,22 @@
+Question 1: What is the capital of France?
+1. Berlin
+2. Madrid
+3. Paris
+4. Rome
+Your answer (1-4): 3
+Correct!
+Question 2: What is 2 + 2?
+1. 3
+2. 4
+3. 5
+4. 6
+Your answer (1-4): 2
+Correct!
+Question 3: Which is platform independent language?
+1. c programming
+2. HTML
+3. java
+4. data structure
+Your answer (1-4): 3
+Correct!
+Your final score is: 3/3
